@@ -1,5 +1,5 @@
 # Welcome to team evvision!
-
+<img src="https://user-images.githubusercontent.com/124791770/233000968-5bb87fb7-a7af-43e0-8650-84eba0102d5c.gif" alt="Image description" width="200" height="200">
 # About us
 We are a team of software students called evvision. evvision had 5 students Arthur Brouwers, Matthijs Dolmans,Rik Fieret, Casper van den Dijk, Cédric Berden. This project has been made for woc (world of content).
 
