@@ -1,4 +1,4 @@
-# Welcome to team evvision!
+# Welcome to team Evvision!
 <img src="https://user-images.githubusercontent.com/124791770/233940995-1d14b19e-7f9a-4ad9-a4af-d464c57a4530.gif" alt="Image description" width="200" height="200">
 
 # About us
