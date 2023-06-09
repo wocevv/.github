@@ -3,7 +3,7 @@
 
 # About us
 We are a team of software students called Evvision. Evvision had 5 students:
-- [Arthur Brouwers](https://github.com/ArthurBrouwers)
+- [Arthur Brouwers](https://github.com/Arthur-Brouwers)
 - [Matthijs Dolmans](https://github.com/MatthijsDolmans)
 - [Rik Fieret](https://github.com/RFieret)
 - [Casper van den Dijk](https://github.com/Freelosim)
